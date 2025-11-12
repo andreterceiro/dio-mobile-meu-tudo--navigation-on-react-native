@@ -13,3 +13,5 @@ I also created a project in tests\01 with the command that I learned before:
 ```
 npx create-expo-app example-app -t
 ```
+
+I also select a template related to Blank (TypeScript) in this case.
