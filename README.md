@@ -21,6 +21,12 @@ Teacher preferred to create the project with the template blank instead the temp
 
 # Exploring the app created to make studies
 
-I will talk about the app inside the **tests\02\react-nav** directory
+I will talk about the app inside the **tests\02\react-nav** directory.
+
+Remember, I created this project with the following command:
+
+```
+expo init react-nav --npm
+```
 
 ![app.json](images/ap.json.png)
