@@ -22,3 +22,5 @@ Teacher preferred to create the project with the template blank instead the temp
 # Exploring the app created to make studies
 
 I will talk about the app inside the **tests\02\react-nav** directory
+
+![app.json](images/ap.json.png)
