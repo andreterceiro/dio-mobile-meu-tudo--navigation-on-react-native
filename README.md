@@ -39,3 +39,5 @@ expo init react-nav --npm
 # App.tsx
 
 Teacher said the **App.tsx** file is the place where we will put our Lego pieces.
+
+![App.tsx](images/App-tsx.png)
