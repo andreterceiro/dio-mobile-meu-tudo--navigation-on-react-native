@@ -28,5 +28,6 @@ Remember, I created this project with the following command:
 ```
 expo init react-nav --npm
 ```
+- the **app.json** file has **as example** the comfiguration related to the app icons.
 
 ![app.json](images/ap.json.png)
