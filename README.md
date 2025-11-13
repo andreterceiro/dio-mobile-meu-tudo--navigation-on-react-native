@@ -28,6 +28,14 @@ Remember, I created this project with the following command:
 ```
 expo init react-nav --npm
 ```
+
+# app.json
+
 - the **app.json** file has **as example** the comfiguration related to the app icons.
 
 ![app.json](images/ap.json.png)
+
+
+# App.tsx
+
+Teacher said the **App.tsx** file is the place where we will put our Lego pieces.
