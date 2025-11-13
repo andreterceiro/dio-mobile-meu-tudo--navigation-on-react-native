@@ -17,3 +17,8 @@ npx create-expo-app example-app -t
 I also select a template related to Blank (TypeScript) in this case.
 
 Teacher preferred to create the project with the template blank instead the template navigation (tabs) to create the navigation from scratch, to teach concepts.
+
+
+# Exploring the app created to make studies
+
+I will talk about the app inside the **tests\02\react-nav** directory
