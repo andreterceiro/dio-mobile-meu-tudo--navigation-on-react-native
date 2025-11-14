@@ -53,3 +53,10 @@ Teacher instructed us to use the first letter in upper case in components.
 Also, teacher said that is a good pratice to create a screens directory and store there files related to screens as I did in a previous image.
 
 Teacher enforced that every screen is also a component.
+
+
+# Basic screen
+
+Teacher said that this is a skeleton of a basic screen:
+
+![skeleton of a basic screen](images/skeleton-of-a-basic-screen.png)
