@@ -41,3 +41,10 @@ expo init react-nav --npm
 Teacher said the **App.tsx** file is the place where we will put our Lego pieces.
 
 ![App.tsx](images/App-tsx.png)
+
+
+# The use of uppercase in the first letter of the names of components
+
+Teacher instructed us to use the first letter in upper case in components.
+
+![first letter in uppercase in components](images/first-letter-in-uppercase-in-components.png)
