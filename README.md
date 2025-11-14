@@ -48,3 +48,5 @@ Teacher said the **App.tsx** file is the place where we will put our Lego pieces
 Teacher instructed us to use the first letter in upper case in components.
 
 ![first letter in uppercase in components](images/first-letter-in-uppercase-in-components.png)
+
+Also, teacher said that is a good pratice to create a screens directory and store there files related to screens as I did in a previous image.
