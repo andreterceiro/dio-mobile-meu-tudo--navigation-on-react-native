@@ -71,3 +71,8 @@ Please see the basic content of App.tsx:
 ![basic content of a screen](images/basic-content-of-a-screen.png)
 
 The navigation will be done with React Navigation package.
+
+
+# External links
+
+Teacher talked about the website [reactnavigation.org](http://www.reactnavigation.org)
