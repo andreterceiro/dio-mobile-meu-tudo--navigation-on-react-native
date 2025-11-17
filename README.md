@@ -69,3 +69,5 @@ Teacher explained that when we work with the concept of screens, App.tsx will be
 Please see the basic content of App.tsx:
 
 ![basic content of a screen](images/basic-content-of-a-screen.png)
+
+The navigation will be done with React Navigation.
