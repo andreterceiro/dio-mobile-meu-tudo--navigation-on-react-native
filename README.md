@@ -60,3 +60,8 @@ Teacher enforced that every screen is also a component.
 Teacher said that this is a skeleton of a basic screen:
 
 ![skeleton of a basic screen](images/skeleton-of-a-basic-screen.png)
+
+
+# Several screens in the same application
+
+Teacher explained that when we work with the concept of screens, App.tsx will be a heb, selecting a screen and a screen having the content.
