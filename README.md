@@ -70,4 +70,4 @@ Please see the basic content of App.tsx:
 
 ![basic content of a screen](images/basic-content-of-a-screen.png)
 
-The navigation will be done with React Navigation.
+The navigation will be done with React Navigation package.
