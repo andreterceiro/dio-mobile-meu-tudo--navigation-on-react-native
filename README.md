@@ -65,3 +65,7 @@ Teacher said that this is a skeleton of a basic screen:
 # Several screens in the same application
 
 Teacher explained that when we work with the concept of screens, App.tsx will be a heb, selecting a screen and a screen having the content.
+
+Please see the basic content of a screen:
+
+![basic content of a screen](images/basic-content-of-a-screen.png)
