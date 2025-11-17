@@ -78,3 +78,5 @@ The navigation will be done with React Navigation package.
 Teacher talked about the website [reactnavigation.org](http://www.reactnavigation.org)
 
 There you can see documentation about React Navigation and download a demo app in the "Try It" button.
+
+![reactnavigation.org - home](images/react-navigation-home.png)
