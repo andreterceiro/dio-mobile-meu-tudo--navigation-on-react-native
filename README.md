@@ -66,6 +66,6 @@ Teacher said that this is a skeleton of a basic screen:
 
 Teacher explained that when we work with the concept of screens, App.tsx will be a heb, selecting a screen and a screen having the content.
 
-Please see the basic content of a screen:
+Please see the basic content of App.tsx:
 
 ![basic content of a screen](images/basic-content-of-a-screen.png)
