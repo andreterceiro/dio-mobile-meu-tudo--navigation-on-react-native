@@ -89,6 +89,11 @@ npm install @react-navigation/native
 ![pre-requisites](images/pre-requisites.png)
 
 
+# Requirements
+
+![requirements](images/requirements.png)
+
+
 # External links
 
 Teacher talked about the website [reactnavigation.org](http://www.reactnavigation.org)
