@@ -89,6 +89,13 @@ npm install @react-navigation/native
 ![pre-requisites](images/pre-requisites.png)
 
 
+# Installing Extra dependencies in a project with Expo
+
+```
+npx expo install react-native-screens react-native-safe-area-context
+```
+
+
 # Requirements
 
 ![requirements](images/requirements.png)
