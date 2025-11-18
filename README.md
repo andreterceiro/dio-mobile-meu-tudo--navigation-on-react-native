@@ -77,6 +77,12 @@ The navigation will be done with React Navigation package.
 
 Teacher instructed us to access [the documentation](http://www.reactnavigation.org) of React Navigation.
 
+There obviously you can find as example the install command:
+
+```
+npm install @react-navigation/native
+```
+
 
 # External links
 
