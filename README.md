@@ -73,6 +73,11 @@ Please see the basic content of App.tsx:
 The navigation will be done with React Navigation package.
 
 
+# Documentation
+
+Teacher instructed us to access [the documentation](http://www.reactnavigation.org) of React Navigation.
+
+
 # External links
 
 Teacher talked about the website [reactnavigation.org](http://www.reactnavigation.org)
