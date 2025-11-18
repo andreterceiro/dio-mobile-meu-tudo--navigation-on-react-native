@@ -98,6 +98,13 @@ npx expo install react-native-screens react-native-safe-area-context
 To install in a Community CLI please see the documentation.
 
 
+# Hello React Navigation - hello world project
+
+Teacher instructed us to access this area of the documentation for a hello world project:
+
+![hello world project](images/hello-react-navigation.png)
+
+
 # Requirements
 
 ![requirements](images/requirements.png)
