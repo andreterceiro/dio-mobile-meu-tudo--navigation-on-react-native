@@ -122,3 +122,8 @@ Teacher talked about the website [reactnavigation.org](http://www.reactnavigatio
 There you can see documentation about React Navigation and download a demo app in the "Try It" button.
 
 ![reactnavigation.org - home](images/react-navigation-home.png)
+
+
+# Continuing...
+
+We will continue to talk about navigation in [the file README.md(this repository](https://github.com/andreterceiro/dio-mobile-meu-tudo--working-with-stack-navigation-in-react-native)
